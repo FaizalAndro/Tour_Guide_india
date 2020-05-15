@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Tour Guide India</string>
+    <string name="title_activity_main">Tour Guide India</string>
+
+    <string name="tab_text_1">Places to Visit</string>
+    <string name="tab_text_2">Indian Foods</string>
+    <string name="tab_text_3">Historic Places</string>
+    <string name="tab_text_4">Events</string>
+    <string name="places_name">Places Name</string>
+    <string name="places_description">Places Description</string>
+    <string name="placeholder_title">Placeholder Title</string>
+    <string name="placeholder_description">Placeholder Description</string>
+
+    <!-- Event Strings -->
+    <string name="bachelor">Bachelor Party Event</string>
+    <string name="bachelor_address">Address: 45/56, Mundka Road. Delhi</string>
+    <string name="pool_party">Pool Party Event</string>
+    <string name="pool_address">Address: Ajeet Chawk, Samypur Badli. Delhi</string>
+    <string name="club_party">Club Party Event</string>
+    <string name="club_event">Address: Jharjar Haryana</string>
+    <string name="wine_party">Wine Party Event</string>
+    <string name="wine_address">Address: Siyaram Chowk, Moblis Road. Lucknow</string>
+
+    <!-- Food Strings -->
+    <string name="butter_chicken">Butter Chicken</string>
+    <string name="butter_chicken_desc">Butter chicken is mouth-watering, tender chicken, cooked in a spiced tomato sauce. It’s traditionally cooked in a tandoor (a cylindrical clay or metal oven), but may be grilled, roasted or pan-fried in less authentic preparations.</string>
+    <string name="samosa">Samosas</string>
+    <string name="samosa_desf">Samosas are a very popular traditional Indian Dish. Probably because samosas are a tasty, fried, or baked pastry with savory fillings.</string>
+    <string name="aalo">Aalo Gobhi</string>
+    <string name="aalo_desc">Aloo Gobi is a dry, vegan Indian dish, made with potatoes (aloo), cauliflower (gobi), and Indian spices. It has a warm, yellow-orange color, because it uses a staple in Indian dishes: turmeric.</string>
+    <string name="naan">Naan</string>
+    <string name="naan_desc">This bread is the perfect combination of chewy and crispy, buttery and garlicky. It’s exactly what every Indian dish needs to complement the otherwise bright and intense flavors.</string>
+    <string name="matar">Matar Paneer</string>
+    <string name="matar_desc">Matar paneer comes from regions of northern India. It’s made up of a yummy tomato sauce over paneer (farmer’s cheese) and peas, and spiced with garam masala.</string>
+    <string name="rogan">Rogan Josh</string>
+    <string name="tandoori">Tandoori Chicken</string>
+    <string name="curry">Chana Aalo Curry</string>
+    <string name="chutney">Chutney</string>
+    <string name="rogan_desc">Rogan josh is a staple of Kashmiri (region in northern India) cuisine. It’s one of the main dishes of a Wazwan: a Kashmiri multi-course meal.</string>
+    <string name="tandoori_desc">Tandoori chicken is a popular North Indian dish consisting of roasted chicken prepared with yogurt and spices. The name comes from the type of cylindrical clay oven, a tandoor, in which the dish is traditionally prepared.</string>
+    <string name="curry_desc">A sultry blend of ginger, tomato, curry, and garlic marinate potatoes, chickpeas, and onions. These veggies and spices blend together to create the magical, Chana Aloo Curry. Though more traditional recipes may be spiced with chilli or cayenne pepper, Chef Marie’s special twist includes fresh jalapenos.</string>
+    <string name="chatni_desc">As mentioned above, chutney (or “chatni”) is a sauce that is a flavorful sweet pair to savory samosas. It’s a relish made of various types of fruits, herbs, and spices, and it originated in India over 2,000 years ago. Heads up again, vegans, this is one for you.</string>
+
+    <!-- Jistorical Strings -->
+    <string name="taj">Taj Mahal</string>
+    <string name="hampi2">Hampi</string>
+    <string name="fatehpur">Fatehpur Sikri</string>
+    <string name="jalliahwala">Jallianwala Bagh</string>
+    <string name="redfort">Red Fort</string>
+    <string name="gateway">Gateway of India</string>
+    <string name="khajurao">Khajuraho Temples</string>
+    <string name="ajanta"><![CDATA[Ajanta & Ellora Caves]]></string>
+    <string name="konark">Konark Sun Temple</string>
+    <string name="rani">Rani ki Vav</string>
+    <string name="taj_desc">One of the Seven Wonders of the World, the Taj Mahal is undoubtedly India\'s most famous monument. It looms evocatively from the banks of the Yamuna River. Mughal emperor Shah Jahan had it built as a mausoleum for third wife, Mumtaz Mahal, who died in 1631. Construction took place over 16 years, from 1632 to 1648.</string>
+    <string name="hampi_desc">Now a laid back village in northern Karnataka, Hampi was once the last capital of Vijayanagar, one of the greatest Hindu empires in India’s history. Muslim invaders conquered the city in 1565, wreaking destruction and reducing it to ruins. It was pillaged and then abandoned.</string>
+    <string name="fatehpur_desc">Fatehpur Sikri, near Agra in Uttar Pradesh, was once the proud but short-lived capital of the Mughal Empire in the 16th century. Emperor Akbar founded the city from the twin villages of Fatehpur and Sikri in 1569, as tribute to famous Sufi saint Sheikh Salim Chishti. The saint accurately predicted the birth of Emperor Akbar\'s much longed for son.</string>
+    <string name="jalliahwala_desc">Jallianwala Bagh, near the Golden Temple in Amritsar, is the site of a sad but defining moment in India\'s history and struggle for freedom. On April 13, 1919, British troops opened fire on a large group of more than 10,000 unarmed protesters, in what is known as the Amritsar Massacre.</string>
+    <string name="redfort_desc">The fort was built as a palace by fifth Mughal Emperor, Shah Jahan, when he shifted his capital from Agra to Delhi in 1638. The capital, known as Shahjahanabad, was where Old Delhi is today. Much of the development took place around Chandni Chowk, the chaotic and crumbling market area adjoining the Red Fort.</string>
+    <string name="gateway_desc">Mumbai\'s most recognizable monument, the Gateway of India, occupies a commanding position overlooking the Arabian Sea at the harbor in Colaba. It was built commemorate the visit of King George V and Queen Mary\'s to the city in 1911. However, it wasn\'t completed until 1924.</string>
+    <string name="kahjurao_desc">If you want proof that the Kama Sutra originated in India, Khajuraho is the place to see. Erotica abounds here with over 20 temples devoted to sexuality and sex. The temples were built mostly between 950 and 1050 by rulers of the Chandela dynasty of Rajputs, which made Khajuraho their first capital. They were hidden for centuries, surrounded by dense jungle, until the British rediscovered them in the early 19th century.</string>
+    <string name="ajanta_desc">There are 34 caves at Ellora, dating back to between the 6th and 11th centuries AD. They\'re an interesting and notable mix of Buddhist, Hindu, and Jain religions. This comes from their construction at a time when Buddhism was waning in India and Hinduism was starting to reassert itself. Most of the work at Ellora, including the astonishing Kailasa Temple, was overseen by Chalukya and Rashtrakuta kings. Towards the end of building period, local rulers switched their allegiance to the Digambara sect of Jainism.</string>
+    <string name="konark_desc">The 13th century Konark Sun Temple is a UNESCO World Heritage site, and the grandest and most well-known sun temple in India. This magnificent temple was built by King Narasimhadeva I of the Eastern Ganga Dynasty. It was made as a giant chariot for Surya the Sun God, with 12 pairs of wheels pulled by seven horses.</string>
+    <string name="rani_desc">A surprisingly recent archaeological find in Patan, Gujarat, Rani ki Vav was flooded by the nearby Saraswati River and silted over until the late 1980s. The step well, which is undoubtedly India\'s most awe-inspiring, dates back to the 11th century during the reign on the Solanki dynasty. Apparently, the widow of ruler Bhimdev I had it built in his memory.</string>
+
+
+  <!-- Places -->
+    <string name="kashmir">Kashmir</string>
+    <string name="leh">Leh-Ladakh</string>
+    <string name="delhi">Delhi</string>
+    <string name="agra">Agra</string>
+    <string name="jaisalmer">Jaisalmer</string>
+    <string name="rann">Rann of Kutch</string>
+    <string name="aurangabad">Aurangabad</string>
+    <string name="sundarban">Sundarbans</string>
+    <string name="sikkim">Sikkim</string>
+    <string name="meghalaya">Meghalaya</string>
+    <string name="kerala">Kerala</string>
+    <string name="hampi">Hampi</string>
+    <string name="mysore">Mysore</string>
+    <string name="adaman"><![CDATA[Andaman & Nicobar]]></string>
+    <string name="kashmir_desc">One of the most incredible places in India, Kashmir is known for its enthralling beauty and is rightly nicknamed as the ‘Heaven on Earth’.</string>
+    <string name="leh_desc">The land of majestic snow-capped mountains, serene alpine glacial lakes, enchanting valleys and ancient colourful Buddhist monasteries.</string>
+    <string name="delhi_desc">Delhi, the bustling capital of India makes for one of the perfect travel destinations in India. A city of heritage monuments, teeming bazaars and mouth-watering street food reminding you of its rich past from the Mughal era</string>
+    <string name="agra_desc">\"A city immersed in a splendid Mughal charm, Agra needs no introduction. Home to the eternal symbol of love, the iconic ‘Taj Mahal‘, Agra finds one of the top most places on the world heritage map. \"</string>
+    <string name="jaisalmer_desc">Also known as the ‘Land of Golden Sand’, Jaisalmer in Rajasthan is a beautiful city known for its rich cultural heritage and stories of bravery and chivalry of the great Rajput rulers.</string>
+    <string name="rann_desc">An enormous stretch of white salt that is submerged under water for 4 months in a year, the great Rann of Kutch in Gujarat is an incredible place to visit in India.</string>
+    <string name="aurangabad_desc">Dotted with plenty of ancient monuments, Aurangabad is a historical city located in Maharashtra. A city ruled by several dynasties in the past, today boasts of its rich heritage with its architectural marvels reminding the tales of its reigning dynasties.</string>
+    <string name="sundarban_desc">Home to the world’s largest mangrove forests, inhabited with the man-eating royal Bengal tigers, Sunderbans is one of the most famous offbeat places to visit in India.</string>
+    <string name="sikkim_desc">One of the most breathtakingly beautiful places in India, Sikkim is a glittering gem of the North-East Himalayas.</string>
+    <string name="meghalaya_desc">Also known as the ‘abode of clouds’, Meghalaya is a hidden gem nestled in the lap of pine covered Khasi and Garo Hills in the Eastern Himalayas.</string>
+    <string name="kerala_desc">\"Pristine backwaters, coconut fringed beaches, rejuvenating Ayurvedic massages and colourful festivals; Yes! You guessed it right. \"</string>
+    <string name="hampi_descrip">A city immersed in the glorious past of the Vijayanagara Empire dating back to the period between 14th and 16th century, Hampi is one of the most incredible places to visit in India.</string>
+    <string name="mysore_desc">Considered to be the cultural capital of Karnataka in South India, Mysore is a historic city known for its ornate palaces and gardens.</string>
+    <string name="adaman_desc"><![CDATA[Known for their picturesque beauty with pristine beaches, azure waters and verdant forests, Andaman & Nicobar are a group of more than 500 shimmering islands tucked in an infinite expanse of the Bay of Bengal.]]></string>
+
+
+</resources>
